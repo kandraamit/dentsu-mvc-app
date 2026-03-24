@@ -1,0 +1,1 @@
+clone → create branch → code → add → commit → pull → resolve conflicts → push → PR → review → merge → delete branch
