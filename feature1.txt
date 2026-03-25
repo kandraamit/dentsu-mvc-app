@@ -1,0 +1,2 @@
+changes in sample txt for some more git command 
+i am writing the another commands
