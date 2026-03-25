@@ -1,1 +1,1 @@
-changes in sample txt for some more got command 
+changes in sample txt for some more git command 
